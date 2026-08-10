@@ -7,6 +7,10 @@ Aplicación web desarrollada para participar en el **Hackathon 40 años de la Li
 
 Este proyecto responde a la necesidad institucional de gestionar los auditorios y espacios de la FCA, permitiendo el control de eventos de manera eficiente y centralizada.
 
+<p align="center">
+  <img src="./docs/images/demo.gif" alt="Demo" width="80%">
+</p>
+
 El sistema contempla dos tipos de usuarios principales:
 
 * 👤 **Funcionarios**: pueden realizar y dar seguimiento a reservaciones, solicitar equipamiento especializado, subir información de los ponentes y obtener comprobantes de sus eventos aprobados.
@@ -22,9 +26,6 @@ La solución se construyó bajo el enfoque de producto mínimo viable (MVP), sig
 
 ## Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-
-## Demo
-![Demo](./docs/images/demo.gif)
 
 # ✒️ Licencia
 [CC0 1.0 Universal (Dominio Público)](https://creativecommons.org/publicdomain/zero/1.0/deed.es)
