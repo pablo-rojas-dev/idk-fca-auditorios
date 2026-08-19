@@ -7,9 +7,9 @@ Aplicación web desarrollada para participar en el **Hackathon 40 años de la Li
 
 Este proyecto responde a la necesidad institucional de gestionar los auditorios y espacios de la FCA, permitiendo el control de eventos de manera eficiente y centralizada.
 
-<p align="center">
-  <img src="./docs/images/demo.gif" alt="Demo" width="80%">
-</p>
+
+https://github.com/user-attachments/assets/7fe951f4-4400-47e7-a832-f2a6970e19e8
+
 
 El sistema contempla dos tipos de usuarios principales:
 
